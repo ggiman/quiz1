@@ -1,10 +1,10 @@
 [
     [
-        "John was angry with me yesterday for no reason.","I consider \"for no reason\" to be an evaluation. Furthermore, As that John was angry. He might have been feeling hurt, scared, sad, or something else. Examples of observations without evaluation might be: \"John told me he was angry,\" or \"John pounded his fist on the table.\" ",
+        "Paul was angry with me yesterday for no reason.","I consider \"for no reason\" to be an evaluation. Furthermore, As that John was angry. He might have been feeling hurt, scared, sad, or something else. Examples of observations without evaluation might be: \"John told me he was angry,\" or \"John pounded his fist on the table.\" ",
         false
     ],
     [
-        "Yesterday evening Nancy bit her fingernails while watching television.",
+        "Yesterday afternoon Simone bit her fingernails while watching television.",
         "An observation was expressed without being mixed with an evaluation",
         true
     ],
